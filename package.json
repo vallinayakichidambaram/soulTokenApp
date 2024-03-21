@@ -1,0 +1,17 @@
+{
+  "name": "soultokenapp",
+  "version": "1.0.0",
+  "description": "implementing soul tokens",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vallinayakichidambaram",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.1",
+    "express": "^4.19.1",
+    "graphql": "^16.8.1"
+  }
+}
